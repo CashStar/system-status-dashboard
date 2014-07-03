@@ -1,0 +1,5 @@
+MySQL-python==1.2.4
+Python-Memcached
+Django
+pytz
+Pillow
